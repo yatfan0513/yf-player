@@ -97,7 +97,7 @@ https://mv.cuitonghai.com/api/v2/vip/normal/288583/index.m3u8
 https://vip.lzcdn2.com/20220519/6798_9666d862/index.m3u8
 #EXTINF:-1,電影-大決戰之淮海戰役
 https://vip1.lz-cdn1.com/20220518/6084_d0221890/index.m3u8
-#EXTINF:-1,大决战之平津战役
+#EXTINF:-1,電影-大決戰之平津戰役
 https://vip1.lz-cdn1.com/20220518/6085_3a77d916/index.m3u8
 #EXTINF:-1,電影-讓子彈飛
 https://mv.cqkxd.com/api/v2/vip/normal/401/index.m3u8
@@ -109,3 +109,11 @@ https://vip.ffzy-online.com/20221015/717_64ecd804/index.m3u8
 https://vip.ffzy-play9.com/20221209/19581_a6db6471/index.m3u8
 #EXTINF:-1,電影-乜代宗師
 https://mv.cqkxd.com/api/v2/dsdy/dsdy_CEjGIQSZx-hKNaD3XvrZwEz-AT0IcPizPweyfd1kjvA/index.m3u8
+#EXTINF:-1,電影-背靠背，臉對臉
+https://mv.cqkxd.com/api/v2/vip/normal/291502/index.m3u8
+#EXTINF:-1,電視劇-人民的名義
+https://my-m3u.pages.dev/renmindemingyi.m3u
+#EXTINF:-1,電視劇-絕對權力
+https://my-m3u.pages.dev/jueduiquanli.m3u
+#EXTINF:-1,電視劇-至高利益
+https://my-m3u.pages.dev/zhigaoliyi.m3u

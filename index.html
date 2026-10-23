@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5.0, viewport-fit=cover" />
   <meta name="color-scheme" content="light dark" />
   <title>全能視頻播放器</title>
-  <script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.7"></script>
+  <script src="./hls.min.js"></script>
   <style>
     :root {
       --bg: #000;
@@ -970,6 +970,7 @@ function startHlsEngine(url, usingProxy) {
   hls = new Hls({
     debug: false,
     enableWorker: true,
+    workerPath: './hls.worker.js',
     lowLatencyMode: true,
     backBufferLength: 15,
     maxBufferLength: 12,
